@@ -1,0 +1,35 @@
+*{
+	font-family: Sriracha;
+}
+
+#services_offered{
+	margin-top: 100px;
+}
+
+.services-column{
+padding: 10px;
+text-align: center;
+}
+
+.services-content{
+	margin-top: 40px;
+}
+
+button{
+	margin-top: 60px;
+}
+
+footer{
+	margin-top: 60px;
+	background-color: black;
+	color:#ffffff;
+	padding: 20px;
+}
+
+.footer-link{
+color: #ffffff;
+}
+
+ul{
+	list-style: none;
+}
